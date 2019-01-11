@@ -1,0 +1,43 @@
+
+
+.footer {
+    background-color: aqua;
+    height: 25px
+}
+
+.rightcolumn {
+    background-color: blueviolet;
+    width: 20%;
+    float: right;
+    height: 550px;
+}
+
+.leftcolumn {
+    background-color: darksalmon;
+    width: 20%;
+    float: left;
+    height: 550px
+}
+
+.middlecolumn {
+    background-color: darkgreen;
+    width: 80%;
+    float: middle;
+    height: 550px
+}
+
+.header2 {
+    background-color: darkcyan;
+    height: 50px;
+}
+
+.header1 {
+    background-color: crimson;
+    height: 25px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto
+    
+}
