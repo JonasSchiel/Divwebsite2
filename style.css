@@ -1,44 +1,50 @@
-
-
-.footer {
-    background-color: aqua;
-    height: 25px
-}
-
-.rightcolumn {
-    background-color: blueviolet;
-    width: 20%;
-    float: right;
-    height: 550px;
-}
-
-.leftcolumn {
-    background-color: darksalmon;
-    width: 20%;
-    float: left;
-    height: 550px
-}
-
-.middlecolumn {
-    background-color: darkgreen;
+.container {
     width: 80%;
-    float: middle;
-    height: 550px
-}
-
-.header2 {
-    background-color: darkcyan;
-    height: 50px;
+    margin: 0 auto
+    
 }
 
 .header1 {
     background-color: crimson;
     height: 50px;
     font-family: 'Coiny', cursive;
+    text-align: center;
+}
+.header2 {
+    background-color: aqua;
+    height: 25px;
+}
+.leftcolumn {
+    background-color: darksalmon;
+    width: 20%;
+    float: left;
+    height: 550px;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto
-    
+.middlecolumn {
+    background-color: darkgreen;
+    width: 60%;
+    float: left;
+    height: 550px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.rightcolumn {
+    background-color: blueviolet;
+    width: 20%;
+    float: left;
+    height: 550px;
+}
+
+
+.footer {
+    background-color: darkcyan;
+    height: 50px;
+    clear:  left;
+}
+
+
+
+Body {
+    background-image: url(circuit.png);
 }
